@@ -17,7 +17,11 @@ public class Taller2 {
      */
     public static void main(String[] args) {
         //ejercicio1();
-        ejercicio3();
+        //ejercicio2();
+       // ejercicio3();
+       
+        //ejercicio4();
+       // ejercicio5();
     }
     public static void ejercicio1(){
         Scanner lector = new Scanner(System.in);
